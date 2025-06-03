@@ -178,3 +178,27 @@ You can deploy the code yourself to [LangGraph Cloud](https://langchain-ai.githu
  - Try to run the generated code
  - Attempt to generate code for the nodes and edges
 
+
+## Key Capabilities and Features
+
+LangGraph Engineer provides comprehensive capabilities for streamlining LangGraph application development:
+
+### Core Features
+
+- Intelligent Requirements Gathering: Interactive conversational interface
+- Automated Code Generation: Well-structured LangGraph applications  
+- Built-in Validation: Programmatic checks for code format
+- AI-Powered Code Review: LLM-based critique system
+- Iterative Refinement: Continuous improvement loops
+- Multi-Model Support: OpenAI and Anthropic model support
+- Best Practices: LangGraph conventions and patterns
+
+### Technical Capabilities
+
+- State Management: Generates MessagesState and TypedDict structures
+- Graph Topology: Complex workflows with conditional routing
+- Error Handling: Robust validation and recovery mechanisms
+- Code Formatting: Python and LangGraph best practices
+- Documentation Integration: Uses official LangGraph test files
+
+USAGE_DOCS'
